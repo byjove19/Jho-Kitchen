@@ -13,9 +13,9 @@ Jho's Kitchen is your one-stop digital destination for everything food. Whether 
 - 🍹 **Seasonal Specials & Events** – Check out what's hot and trending in the food scene.
 
 ## 📦 Ingredients (Tech Stack)
-- 🥩 **Frontend:** HTML, CSS, JavaScript (React or similar if applicable)
-- 🍞 **Backend:** (If applicable, mention Node.js, PHP, or whichever stack is used)
-- 🍷 **Database:** (Optional, if applicable) MySQL, MongoDB, or similar
+- 🥩 **Frontend:** HTML, CSS, JavaScript
+- 🍞 **Backend:** (  Node.js)
+- 🍷 **Database:** (BetterSQLite)
 - 🧂 **Extras:** Responsive design, SEO best practices, and a dash of creativity
 
 ## 🚀 Getting Started
